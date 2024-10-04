@@ -1,0 +1,1 @@
+Hemos capturado el tráfico de red de una transmisión sospechosa y lo hemos almacenado en el archivo first.pcapng. Durante la comunicación, la flag fue enviada a través de un puerto TCP. Tu misión es analizar el archivo y encontrarla.

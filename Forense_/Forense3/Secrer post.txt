@@ -1,0 +1,1 @@
+Se ha capturado una muestra de tráfico de red variado y se ha almacenado en el archivo Posting.pcap. Tu misión es analizar el tráfico y encontrar la bandera.

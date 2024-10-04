@@ -1,0 +1,7 @@
+Una imagen vale más que mil palabras, pero en este caso,
+ también puede contener un secreto bien guardado.
+  Usando técnicas de esteganografía, se ha escondido 
+  un mensaje importante en esta imagen.
+   Tu objetivo es extraer el contenido oculto utilizando
+    la herramienta adecuada.
+

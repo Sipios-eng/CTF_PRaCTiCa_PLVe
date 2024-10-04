@@ -1,0 +1,1 @@
+En esta prueba deberás desenterrar un mensaje oculto utilizando una de las formas más antiguas de comunicación: el código Morse. A lo largo de la historia, este código ha sido clave para transmitir información de manera rápida y eficiente. Tu misión es identificar el mensaje codificado y descifrarlo correctamente.

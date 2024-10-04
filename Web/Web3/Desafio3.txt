@@ -1,0 +1,6 @@
+Este reto te llevará a explorar los diferentes métodos HTTP,
+ como GET, POST y Headers, que son fundamentales en la comunicación web.
+  La página que estás a punto de visitar te dará algunas pistas... 
+  pero no todo está a la vista.
+
+  https://reto3.duoc.arkaviaredteam.cl/

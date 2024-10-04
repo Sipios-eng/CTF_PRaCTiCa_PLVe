@@ -1,0 +1,10 @@
+Tu misión comienza en una página aparentemente vacía, 
+pero no te dejes engañar. Sabes que en el mundo del hacking, 
+lo que ves no siempre es todo lo que hay.
+ Tendrás que usar tus habilidades de fuzzing para encontrar un directorio
+  oculto. Si logras dar con él, recibirás pistas adicionales 
+  que te acercarán a tu objetivo. Explora el código fuente de 
+  los archivos con cuidado, ya que el secreto está más cerca de 
+  lo que crees.
+  
+ 

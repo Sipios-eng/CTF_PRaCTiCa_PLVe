@@ -1,0 +1,7 @@
+En este reto, tendrás que buscar una flag
+ oculta en los archivos consumidos por la aplicación web.
+  Cada tecnología web juega un papel importante para darte 
+  pistas y esconder fragmentos de la flag. Tu tarea es explorar
+ cada archivo cuidadosamente.
+
+ https://reto2.duoc.arkaviaredteam.cl/
